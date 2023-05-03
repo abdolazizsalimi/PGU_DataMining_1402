@@ -1,6 +1,6 @@
 # PGU Data Mining 1402
 
-This repository contains the code and materials for the Data Mining course at Persian Gulf University in 2021. The code and materials are organized by week, with each week having its own folder.
+This repository contains the code and materials for the Data Mining course at Persian Gulf University in 2023. The code and materials are organized by week, with each week having its own folder.
 
 ## Table of Contents
 
