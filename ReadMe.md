@@ -14,7 +14,7 @@ This repository contains the code and materials for the Data Mining course at Pe
 To get started with this project, you can either download the entire repository or clone it using Git:
 
 ```python 
-git clone https://github.com/abdolazizsalimi/PGU_DataMining_1402.gitc
+git clone https://github.com/abdolazizsalimi/PGU_DataMining_1402.git
 ``` 
 
 
