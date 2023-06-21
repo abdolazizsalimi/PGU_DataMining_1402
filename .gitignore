@@ -2,3 +2,6 @@
 *.rar
 *zip
 Subtracted images of CDD-CESM
+.conda
+finalProject\images
+images
